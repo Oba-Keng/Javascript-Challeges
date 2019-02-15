@@ -16,8 +16,7 @@ var sum = parseInt(a) + parseInt(b);
   }else if(sum===65){
 //   document.getElementById(sum).innerHTML="false";
       alert(true);
-  }   else
-      alert(false);
+  }   
 //    alert("works");
 
 
