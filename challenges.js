@@ -22,7 +22,7 @@ var sum = parseInt(a) + parseInt(b);
 
 
 }
-equalityCheck(32,33,65);//change parameters to test my code
+//equalityCheck(32,33,65);//change parameters to test my code
 
 
 
